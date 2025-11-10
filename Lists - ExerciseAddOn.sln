@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Pokemon Don't Go", "08. Anonymous Threat\09. Pokemon Don't Go.csproj", "{8AA2A4E7-DA0D-4DC6-B11A-1B579A94815E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. SoftUni Course Planning", "10. SoftUni Course Planning\10. SoftUni Course Planning.csproj", "{B77BBB70-D72E-4B8B-A993-4BC843EA64B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8AA2A4E7-DA0D-4DC6-B11A-1B579A94815E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA2A4E7-DA0D-4DC6-B11A-1B579A94815E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA2A4E7-DA0D-4DC6-B11A-1B579A94815E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77BBB70-D72E-4B8B-A993-4BC843EA64B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77BBB70-D72E-4B8B-A993-4BC843EA64B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77BBB70-D72E-4B8B-A993-4BC843EA64B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77BBB70-D72E-4B8B-A993-4BC843EA64B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
